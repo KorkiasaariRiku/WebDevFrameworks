@@ -1,0 +1,7 @@
+div {
+    display: block;
+    }
+.newsContainer{
+    display:flex;
+    padding: 0 7px;
+}
